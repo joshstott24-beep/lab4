@@ -1,5 +1,7 @@
 # Lab 4 Notes: Guided Application Walkthrough and Testing
 
+GitHub Codespaces project link: https://github.com/joshstott24-beep/lab4 (Open in Codespaces: https://codespaces.new/joshstott24-beep/lab4)
+
 ## Part 1: Run the application
 
 I ran the application in GitHub Codespaces with `php -S 0.0.0.0:8000` and opened `request-form.php`. I submitted a valid request for IS 6465 with the topics Exam review and Practice problems, an Afternoon time, a date of 11/10/2026, and the reason "I need help understanding PHP form validation."
